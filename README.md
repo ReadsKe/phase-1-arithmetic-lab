@@ -7,7 +7,7 @@
 * Explain what `NaN` is
 * Use built-in objects like `Math` and `Number` to accomplish complex tasks
 
-## Introduction
+## Introductionnpm
 
 We're going to discuss a number of the common operators and objects we'll use to
 perform arithmetic operations in JavaScript.
